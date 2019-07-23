@@ -1,0 +1,9 @@
+# Clojure
+/.cpcache/
+
+# Editor save files
+.#*
+.*#
+\#*
+.*.sw[a-z]
+*~
